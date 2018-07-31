@@ -38,7 +38,7 @@
 
 Далее необходимо выполнить миграции и сидинг данных. Делается  это следующими командами:
 
-<i>$ php artisan migrate </i>
+<i>$ php artisan migrate </i><br>
 <i>$ php artisan db:seed </i>
 
 Все, можно работать :)
